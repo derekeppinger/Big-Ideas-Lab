@@ -1,9 +1,13 @@
-# hello-world
+# Hello-World
 
-hello-world-Big-Ideas-CMPINF0010
-Program takes in user's name, their favorite day, their favorite number n, and prints out that day n number of times
+This code asks the user for their name, favorite day of the week, and favorite number. It then uses a loop to print the user's favorite day of the week the number of times they specified as their favorite number.
 
-Group Member Names
-Derek Eppinger Nicholas Tillmann
+After that, the code asks the user for their current age and the age at which they want to retire. Using these values, it calculates the number of years left until retirement and the year in which they can retire. Finally, it prints these values.
 
-The code of conduct expresses our commitment to a safe place for all to contribute code and the consequences of those who wish to disregard those rules. Our license.md explains that this is an open source project with no copyright limitations.
+# Installation
+
+This project is completely open source, no legal actions will be taken against those who contribute or repurpose this code.
+
+# How to Contribute
+
+Contribute to this project as you please, creating PR's when necessary. Before contributing, please read the code of conduct as it expresses our commitment to a safe place for all to contribute code and describes the consequences for those who wish to disregard those rules. 
