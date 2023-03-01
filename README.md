@@ -1,6 +1,7 @@
 # Hello-World
 
-#Understanding fiddlejonesjames.ipynb
+# Understanding fiddlejonesjames.ipynb
+
 This code asks the user for their name, favorite day of the week, and favorite number. It then uses a loop to print the user's favorite day of the week the number of times they specified as their favorite number.
 
 After that, the code asks the user for their current age and the age at which they want to retire. Using these values, it calculates the number of years left until retirement and the year in which they can retire. Finally, it prints these values.
